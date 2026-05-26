@@ -5,8 +5,8 @@ Learn how Copilot Spaces can scale institutional knowledge and streamline organi
 ## What are Copilot Spaces?
 
 - Copilot Spaces let you organize the context that Copilot uses to answer your questions.
-- Spaces can include repositories, code, pull requests, issues, free-text content like transcripts or notes, images, and file uploads.
-- You can ask Copilot questions grounded in that context, or share the space with your team to support collaboration and knowledge sharing.
+- Spaces can include repositories, code, pull requests, issues, free-text content like transcripts or notes, images, and file uploads
+- You can ask Copilot questions grounded in that context, or share the space with your team to support collaboration and knowledge sharing
 
 ### Why use Copilot Spaces?
 
@@ -14,11 +14,11 @@ Whether you’re working solo or collaborating across a team, Spaces help you ma
 
 #### With Copilot Spaces you can
 
-- Get more relevant, specific answers from Copilot.
-- Stay in flow by collecting what you need for a task in one place.
-- Reduce repeated questions by sharing knowledge with your team.
+- Get more relevant, specific answers from Copilot
+- Stay in flow by collecting what you need for a task in one place
+- Reduce repeated questions by sharing knowledge with your team
 - Support onboarding and reuse with self-service context that lives beyond chat history
-- Your spaces stay in sync as your project evolves.
+- Your spaces stay in sync as your project evolves
   - GitHub files and other GitHub-based sources added to a space are automatically updated as they change, making Copilot an evergreen expert in your project
 
 ## Welcome
