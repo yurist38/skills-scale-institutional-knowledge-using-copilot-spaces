@@ -10,16 +10,16 @@ Learn how Copilot Spaces can scale institutional knowledge and streamline organi
 
 ### Why use Copilot Spaces?
 
-Whether you’re working solo or collaborating across a team, Spaces help you make Copilot more useful.
+Whether you’re working solo or collaborating across a team, Spaces help you make Copilot more useful
 
 #### With Copilot Spaces you can
 
 - Get more relevant, specific answers from Copilot.
 - Stay in flow by collecting what you need for a task in one place.
 - Reduce repeated questions by sharing knowledge with your team.
-- Support onboarding and reuse with self-service context that lives beyond chat history.
+- Support onboarding and reuse with self-service context that lives beyond chat history
 - Your spaces stay in sync as your project evolves.
-  - GitHub files and other GitHub-based sources added to a space are automatically updated as they change, making Copilot an evergreen expert in your project.
+  - GitHub files and other GitHub-based sources added to a space are automatically updated as they change, making Copilot an evergreen expert in your project
 
 ## Welcome
 
