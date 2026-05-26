@@ -1,22 +1,22 @@
 # OctoAcme Project Management Docs
 
-This folder is the landing page for OctoAcme project management documentation. It helps new team members and collaborators quickly understand how projects move from idea to delivery, how decisions are made, and where to find role-specific and process-specific guidance.
+Welcome to the OctoAcme project management documentation hub. This `docs/` folder is the central landing page for the processes, roles, and delivery practices used to move work from idea to release and continuous improvement.
 
-OctoAcme follows a lifecycle-based workflow that moves work through initiation, planning, execution, release, and retrospective improvement. Teams begin with a one-pager that defines the problem, objective, success metrics, stakeholders, and initial risks, then use a go/no-go decision gate before planning. During planning, that direction is turned into a prioritized backlog, milestone plan, and clear Definition of Done.
+OctoAcme follows a lifecycle-based approach that moves projects through initiation, planning, execution, release, and retrospective improvement. Work starts with a lightweight one-pager that defines the problem statement, objective or goal, success metrics, stakeholders, timeline, initial risks, and proposed team. That initiation step supports a clear go/no-go decision before a project moves into planning.
 
-Delivery is run with a consistent execution rhythm and visible workflow states. Work is tracked on a project board (Backlog, Ready, In Progress, In Review, QA, Done), with standups, weekly delivery syncs, and sprint or milestone demos. Pull requests are expected to include linked issues and acceptance criteria, pass CI checks, and receive required review approvals before merge.
+During planning, teams turn an approved initiative into a prioritized backlog with acceptance criteria, estimates, dependencies, milestones, and a documented Definition of Done (DoD). Execution then focuses on small, testable increments managed through a shared project board with stages such as Backlog, Ready, In Progress, In Review, QA, and Done. Pull requests are expected to include issue links and acceptance criteria, and delivery progress is supported by regular standups, weekly syncs, demos, and visible tracking of risks and blockers.
 
-Roles and communication are explicit throughout the process. Project Managers coordinate schedules, risks, and stakeholder communication; Product Managers own outcomes and prioritization; Developers and QA drive implementation and quality validation; and stakeholders provide alignment and approvals. Communication cadences combine regular status updates with clear escalation paths for blockers and incidents, including security-specific routing when needed.
+The process is designed around clear ownership and cross-functional collaboration. Project Managers coordinate delivery, schedules, risks, and stakeholder communications; Product Managers define outcomes, prioritize the backlog, and measure success; Developers implement and test solutions; QA/Testing validates quality and acceptance criteria; and Stakeholders provide input, alignment, and approvals. Communication practices include regular status updates, escalation paths, a maintained risk register, and structured incident communication when issues arise.
 
-Quality assurance is embedded end to end rather than deferred to release time. Teams use unit, integration, and critical-flow smoke testing, along with CI-based linting and security scanning, to protect delivery quality. Release readiness includes completed acceptance criteria, release notes, and rollback planning, and retrospectives convert lessons learned into tracked action items for continuous improvement.
+Quality assurance and release readiness are built into the workflow. Teams use unit tests for new logic, integration tests where applicable, end-to-end smoke tests for critical flows, CI checks for linting, tests, and security scanning, plus manual QA when needed for feature acceptance. Before release, OctoAcme expects completed acceptance criteria, passing checks, release notes, smoke-test preparation, and a documented rollback or mitigation plan, followed by retrospectives that turn lessons learned into tracked action items.
 
-## Process documents index
+## Process Document Index
 
-- [OctoAcme Project Management Overview](./octoacme-project-management-overview.md)
-- [OctoAcme — Project Initiation Guide](./octoacme-project-initiation.md)
-- [OctoAcme — Project Planning](./octoacme-project-planning.md)
-- [OctoAcme — Execution & Tracking](./octoacme-execution-and-tracking.md)
-- [OctoAcme — Risk Management & Communication](./octoacme-risks-and-communication.md)
-- [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)
-- [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
-- [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [Project Management Overview](./octoacme-project-management-overview.md)
+- [Project Initiation Guide](./octoacme-project-initiation.md)
+- [Project Planning](./octoacme-project-planning.md)
+- [Execution & Tracking](./octoacme-execution-and-tracking.md)
+- [Risk Management & Communication](./octoacme-risks-and-communication.md)
+- [Release & Deployment Guide](./octoacme-release-and-deployment.md)
+- [Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
+- [Roles and Personas](./octoacme-roles-and-personas.md)
